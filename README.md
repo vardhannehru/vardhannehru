@@ -94,6 +94,16 @@ Website for a school, built freelance to a stakeholder brief and maintained afte
 
 ---
 
+## 🌍 Open Source
+
+### 🎙️ [Pipecat](https://github.com/pipecat-ai/pipecat)
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"> <img src="https://img.shields.io/badge/Merged-2EA043?style=flat-square">
+
+Contributed 12 unit tests for the audio mixer in Pipecat, an open source framework for real-time voice and multimodal AI agents. The module had no coverage; the tests exercise the real mixing arithmetic (volume scaling, int16 clipping, looping, runtime settings) with no external services, and were reviewed and merged by a maintainer. [PR #5864](https://github.com/pipecat-ai/pipecat/pull/5864)
+
+---
+
 ## 📜 Certifications
 
 <p align="center">
