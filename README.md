@@ -1,8 +1,8 @@
 <h1 align="center">Vardhan Nehru</h1>
 
 <p align="center">
-  <b>Frontend Developer</b> · Kakinada, Andhra Pradesh, India<br>
-  B.Tech CSE (AI & ML), 2025 · Open to frontend & application support roles
+  <b>AI / Machine Learning Engineer</b> · Kakinada, Andhra Pradesh, India<br>
+  B.Tech CSE (AI & ML), 2025 · Open to entry-level AI / ML engineering roles
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  I build web applications end to end — design, build, test, debug, document,<br>
-  and keep them running after handover.
+  I build AI that has to work in production, not just in a notebook —<br>
+  from supervised regression in Python to full-stack systems running for a real business.
 </p>
 
 ---
@@ -27,9 +27,16 @@
 ## 🛠 Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
@@ -61,6 +68,12 @@
 
 ## 🚀 Projects
 
+### 🔋 [EV Cost Prediction](https://github.com/vardhannehru/-EV-Cost-Prediction)
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+
+A supervised regression model that estimates electric-vehicle cost from battery capacity, range, charging time and motor specifications. Cleaned and prepared the dataset, engineered and selected features, compared candidate models, and evaluated prediction error to choose the final estimator.
+
 ### ✈️ [VIMAN](https://github.com/vardhannehru/viman-website)
 
 <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black">
@@ -79,30 +92,25 @@ A management system for a working quail farm: billing and POS, product and stock
 
 Website for a school, built freelance to a stakeholder brief and maintained after handover — content updates, layout fixes, and cross-device testing.
 
-### 🔋 [EV Cost Prediction](https://github.com/vardhannehru/-EV-Cost-Prediction)
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white">
-
-A regression model estimating electric vehicle cost from battery and specification data. Data cleaning, feature selection, and evaluation of the fit.
-
 ---
 
 ## 📜 Certifications
 
 <p align="center">
+  <img src="https://img.shields.io/badge/IBM-Machine_Learning_with_Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Machine Learning with Python">
   <img src="https://img.shields.io/badge/Salesforce-Certified_AI_Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Certified AI Associate">
-  <img src="https://img.shields.io/badge/Blue_Prism-Associate_Developer-0080FF?style=for-the-badge" alt="Blue Prism Associate Developer">
+  <img src="https://img.shields.io/badge/AWS_Academy-AI_%26_ML_Virtual_Intern-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Academy AI and ML Virtual Intern">
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Blue_Prism-Associate_Developer-0080FF?style=for-the-badge" alt="Blue Prism Associate Developer">
   <img src="https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials">
-  <img src="https://img.shields.io/badge/IBM-Machine_Learning_with_Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Machine Learning with Python">
 </p>
 
 ---
 
 <p align="center">
-  <b>Open to frontend and application support roles.</b><br>
+  <b>Open to entry-level AI / ML engineering roles.</b><br>
   <a href="https://linkedin.com/in/pvsr-nehru">LinkedIn</a> ·
   <a href="mailto:vardhannehru01@gmail.com">vardhannehru01@gmail.com</a>
 </p>
