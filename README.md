@@ -1,126 +1,54 @@
-<h1 align="center">Vardhan Nehru</h1>
+# Vardhan Nehru
 
-<p align="center">
-  <b>AI / Machine Learning Engineer</b> · Kakinada, Andhra Pradesh, India<br>
-  B.Tech CSE (AI & ML), 2025 · Open to entry-level AI / ML engineering roles
-</p>
+**AI / Machine Learning Engineer** · Kakinada, Andhra Pradesh, India  
+B.Tech CSE (AI & ML), 2025 · Open to entry-level AI / ML engineering roles
 
-<p align="center">
-  <a href="https://linkedin.com/in/pvsr-nehru">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:vardhannehru01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/vardhannehru">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+I build AI that has to work in production, not just in a notebook — from supervised regression in Python to full-stack systems running for a real business.
 
-<p align="center">
-  I build AI that has to work in production, not just in a notebook —<br>
-  from supervised regression in Python to full-stack systems running for a real business.
-</p>
+## 🎯 AI/ML Skills
 
----
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 🛠 Tech Stack
+## 🔧 Development & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-</p>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP">
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator">
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black" alt="Adobe After Effects">
-</p>
-
----
-
-## 🚀 Projects
-
-### 🔋 [EV Cost Prediction](https://github.com/vardhannehru/-EV-Cost-Prediction)
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-
+### 🔋 EV Cost Prediction
 A supervised regression model that estimates electric-vehicle cost from battery capacity, range, charging time and motor specifications. Cleaned and prepared the dataset, engineered and selected features, compared candidate models, and evaluated prediction error to choose the final estimator.
 
-### ✈️ [VIMAN](https://github.com/vardhannehru/viman-website)
+### ✈️ VIMAN
+A site for the DGCA pilot pathway, built as one continuous flight. An aircraft takes off, climbs, cruises and lands as you scroll — rendered live in WebGL, driven by a single scroll value rather than a stack of separate animations.
 
-<img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black">
+### 🐦 Sri Venkatarama Farms
+A management system for a working quail farm: billing and POS, product and stock management, daily bird targets, and separate admin and salesman access levels.
 
-A site for the DGCA pilot pathway, built as **one continuous flight**. An aircraft takes off, climbs, cruises and lands as you scroll — rendered live in WebGL, driven by a single scroll value rather than a stack of separate animations. A capability probe drops quality on weaker devices, the render loop suspends when the scene leaves the viewport, and the whole thing turns off for `prefers-reduced-motion`.
+## 🌍 Open Source Contributions
 
-### 🐦 [Sri Venkatarama Farms](https://github.com/vardhannehru/sri-venkatarama-farms)
+### ![Pipecat](https://img.shields.io/badge/Pipecat-Real--time%20AI%20Agents-FF6B6B?style=flat-square) 
+✅ **MERGED** · 12 unit tests for the audio mixer module  
+PR #5864 - Comprehensive test coverage for mixing arithmetic, clipping, and runtime settings
 
-<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+### ![Stripe AI](https://img.shields.io/badge/Stripe%20AI-Python%20Toolkit-0066CC?style=flat-square)
+🔄 **PENDING REVIEW** · Security & Infrastructure fixes
+- PR #559: Config validation for deprecated 'actions' key
+- PR #560: Test discovery fix (3→51 tests running)
 
-A management system for a working quail farm: billing and POS, product and stock management, daily bird targets, and separate admin and salesman access levels. JSON store locally, PostgreSQL in production, containerised for deployment.
+## 📚 Certifications
 
-### 🎓 [Future Spark International School](https://github.com/vardhannehru/FutureSpark)
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-
-Website for a school, built freelance to a stakeholder brief and maintained after handover — content updates, layout fixes, and cross-device testing.
-
----
-
-## 🌍 Open Source
-
-### 🎙️ [Pipecat](https://github.com/pipecat-ai/pipecat)
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"> <img src="https://img.shields.io/badge/Merged-2EA043?style=flat-square">
-
-Contributed 12 unit tests for the audio mixer in Pipecat, an open source framework for real-time voice and multimodal AI agents. The module had no coverage; the tests exercise the real mixing arithmetic (volume scaling, int16 clipping, looping, runtime settings) with no external services, and were reviewed and merged by a maintainer. [PR #5864](https://github.com/pipecat-ai/pipecat/pull/5864)
+![IBM Machine Learning](https://img.shields.io/badge/IBM%20Machine%20Learning-Professional-blue?style=for-the-badge)
+![AWS Academy](https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundation-FF9900?style=for-the-badge)
 
 ---
 
-## 📜 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IBM-Machine_Learning_with_Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Machine Learning with Python">
-  <img src="https://img.shields.io/badge/Salesforce-Certified_AI_Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Certified AI Associate">
-  <img src="https://img.shields.io/badge/AWS_Academy-AI_%26_ML_Virtual_Intern-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Academy AI and ML Virtual Intern">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Blue_Prism-Associate_Developer-0080FF?style=for-the-badge" alt="Blue Prism Associate Developer">
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials">
-</p>
-
----
-
-<p align="center">
-  <b>Open to entry-level AI / ML engineering roles.</b><br>
-  <a href="https://linkedin.com/in/pvsr-nehru">LinkedIn</a> ·
-  <a href="mailto:vardhannehru01@gmail.com">vardhannehru01@gmail.com</a>
-</p>
+**Connect:** [LinkedIn](https://www.linkedin.com/in/pvsr-nehru/) · vardhannehru01@gmail.com
